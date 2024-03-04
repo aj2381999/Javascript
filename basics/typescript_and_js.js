@@ -14,3 +14,6 @@ interface Person {
     name: "John Doe",
     age: 30,
   };
+
+  //example
+  
